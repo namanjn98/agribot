@@ -32,7 +32,8 @@ For full paper, refer [IndiaRxiv Link](https://indiarxiv.org/3qp98/)
 ![](https://github.com/namanjn98/agribot/blob/master/Images/vibrant.png)
 
 ## Team
-![](https://github.com/namanjn98/agribot/blob/master/Images/team.png)
+Naman Jain, Pranjali Jain, Pratik Kayal, Jayakrishna Sahit, Soham Pachpande, Jayesh Choudhari and Mayank Singh
+
 
 ## Bibtex
 ```
