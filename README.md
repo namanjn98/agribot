@@ -1,7 +1,7 @@
 # Agribot
 Codes for Agribot Project (https://agribotchat.appspot.com/)
 
-|[](https://github.com/namanjn98/agribot/blob/master/Images/home.png)
+![](https://github.com/namanjn98/agribot/blob/master/Images/home.png)
 
 ## Abstract
 India is an agro-based economy and proper
