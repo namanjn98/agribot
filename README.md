@@ -22,8 +22,17 @@ and hence a better agricultural output. The job of the Call
 Center workforce would be made easier and the hard work of
 various such workers can be redirected to a better goal.
 
+## Architecture
+![](https://github.com/namanjn98/agribot/blob/master/Images/arch.jpg)
+
 ## Paper 
 For full paper, refer [IndiaRxiv Link](https://indiarxiv.org/3qp98/)
+
+## Awards
+![](https://github.com/namanjn98/agribot/blob/master/Images/vibrant.png)
+
+## Team
+![](https://github.com/namanjn98/agribot/blob/master/Images/team.png)
 
 ## Bibtex
 ```
